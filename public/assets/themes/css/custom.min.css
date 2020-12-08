@@ -1,0 +1,20 @@
+#googlemap {
+	overflow: hidden; 
+	position: relative; 
+	text-align: left; 
+	width: 100%; 
+	height: 380px; 
+	padding: 0px; 
+	margin-bottom: 2%;
+	cursor: default;
+}
+
+#chartdiv {
+  overflow: hidden; 
+	position: relative; 
+	text-align: left; 
+	width: 100%; 
+	height: 240px; 
+	padding: 0px; 
+	cursor: default;
+}

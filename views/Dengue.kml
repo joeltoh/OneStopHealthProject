@@ -1,0 +1,1375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="DengueCase_Northwest_Area">
+  <name>DengueCase_Northwest_Area</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>DengueCase_Northwest_Area</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name>No. of Dengue Cases : 3</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>No. of Dengue Cases : 3</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Polygon</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Cases</td>
+<td>3</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>No. of Dengue Cases : 3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>No. of Dengue Cases : 3</td>
+</tr>
+<tr>
+<td>INC_CRC</td>
+<td>FEF9D9B383C8B072</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FMEL_UPD_D</td>
+<td>10/3/2016 7:28:22 PM</td>
+</tr>
+<tr>
+<td>X_ADDR</td>
+<td>28389.5237</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y_ADDR</td>
+<td>44766.0699</td>
+</tr>
+<tr>
+<td>SHAPE_Length</td>
+<td>800</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Area</td>
+<td>40000</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 103.8359202088975,1.420218566763509,0 103.837717387851,1.42021856403642,0 103.8377173912614,1.422027291813829,0 103.8359202109099,1.422027294544393,0 103.8359202088975,1.420218566763509,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>No. of Dengue Cases : 2</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>No. of Dengue Cases : 2</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Polygon</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Cases</td>
+<td>2</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>No. of Dengue Cases : 2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>No. of Dengue Cases : 2</td>
+</tr>
+<tr>
+<td>INC_CRC</td>
+<td>EB9C799BC6516B36</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FMEL_UPD_D</td>
+<td>10/3/2016 7:28:22 PM</td>
+</tr>
+<tr>
+<td>X_ADDR</td>
+<td>28389.5237</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y_ADDR</td>
+<td>44966.0699</td>
+</tr>
+<tr>
+<td>SHAPE_Length</td>
+<td>800</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Area</td>
+<td>40000</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 103.8359202109099,1.422027294544393,0 103.8377173912614,1.422027291813829,0 103.8377173946762,1.423836019562789,0 103.8359202129249,1.423836022296828,0 103.8359202109099,1.422027294544393,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>No. of Dengue Cases : 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Polygon</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Cases</td>
+<td>1</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>INC_CRC</td>
+<td>F2591C56AA561E79</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FMEL_UPD_D</td>
+<td>10/3/2016 7:28:22 PM</td>
+</tr>
+<tr>
+<td>X_ADDR</td>
+<td>25189.5237</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y_ADDR</td>
+<td>48166.0699</td>
+</tr>
+<tr>
+<td>SHAPE_Length</td>
+<td>800</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Area</td>
+<td>40000</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 103.8071649969168,1.450966784345735,0 103.8089621997068,1.450966804545185,0 103.8089621803376,1.452775531674654,0 103.8071649761194,1.452775511450013,0 103.8071649969168,1.450966784345735,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>No. of Dengue Cases : 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Polygon</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Cases</td>
+<td>1</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>INC_CRC</td>
+<td>7712C7CF655DE459</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FMEL_UPD_D</td>
+<td>10/3/2016 7:28:22 PM</td>
+</tr>
+<tr>
+<td>X_ADDR</td>
+<td>22189.5237</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y_ADDR</td>
+<td>46566.0699</td>
+</tr>
+<tr>
+<td>SHAPE_Length</td>
+<td>800</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Area</td>
+<td>40000</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 103.7802072950623,1.436496495828578,0 103.7820044859136,1.436496537160506,0 103.7820044455264,1.438305263955222,0 103.7802072532611,1.438305222571231,0 103.7802072950623,1.436496495828578,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>No. of Dengue Cases : 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Polygon</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Cases</td>
+<td>1</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>INC_CRC</td>
+<td>AF4088B691A20F02</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FMEL_UPD_D</td>
+<td>10/3/2016 7:28:22 PM</td>
+</tr>
+<tr>
+<td>X_ADDR</td>
+<td>21189.5237</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y_ADDR</td>
+<td>47166.0699</td>
+</tr>
+<tr>
+<td>SHAPE_Length</td>
+<td>800</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Area</td>
+<td>40000</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 103.7712211948317,1.441922447114992,0 103.7730183896495,1.441922495741307,0 103.7730183420126,1.443731222171356,0 103.7712211457754,1.443731173484021,0 103.7712211948317,1.441922447114992,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>No. of Dengue Cases : 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Polygon</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Cases</td>
+<td>1</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>INC_CRC</td>
+<td>7B22F5C4DC3DBE6C</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FMEL_UPD_D</td>
+<td>9/30/2016 3:57:23 PM</td>
+</tr>
+<tr>
+<td>X_ADDR</td>
+<td>28189.5237</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y_ADDR</td>
+<td>39166.0699</td>
+</tr>
+<tr>
+<td>SHAPE_Length</td>
+<td>800</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Area</td>
+<td>40000</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 103.8341230130584,1.369574178769161,0 103.8359201535919,1.369574177495338,0 103.8359201555325,1.37138290605811,0 103.8341230136508,1.371382907333616,0 103.8341230130584,1.369574178769161,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>No. of Dengue Cases : 2</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>No. of Dengue Cases : 2</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Polygon</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Cases</td>
+<td>2</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>No. of Dengue Cases : 2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>No. of Dengue Cases : 2</td>
+</tr>
+<tr>
+<td>INC_CRC</td>
+<td>5AAC4A3D36E036CB</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FMEL_UPD_D</td>
+<td>9/30/2016 3:57:23 PM</td>
+</tr>
+<tr>
+<td>X_ADDR</td>
+<td>20389.5237</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y_ADDR</td>
+<td>39766.0699</td>
+</tr>
+<tr>
+<td>SHAPE_Length</td>
+<td>800</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Area</td>
+<td>40000</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 103.7640343930697,1.374999352397765,0 103.7658315363639,1.374999404211783,0 103.7658314855246,1.376808131430311,0 103.7640343408769,1.376808079548109,0 103.7640343930697,1.374999352397765,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>No. of Dengue Cases : 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Polygon</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Cases</td>
+<td>1</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>INC_CRC</td>
+<td>10E8358A39EDD5B1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FMEL_UPD_D</td>
+<td>9/27/2016 3:45:22 PM</td>
+</tr>
+<tr>
+<td>X_ADDR</td>
+<td>27389.5237</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y_ADDR</td>
+<td>46366.0699</td>
+</tr>
+<tr>
+<td>SHAPE_Length</td>
+<td>800</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Area</td>
+<td>40000</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 103.8269342741267,1.434688380679263,0 103.8287314643094,1.434688385026761,0 103.8287314606931,1.436497112575025,0 103.826934269098,1.436497108222043,0 103.8269342741267,1.434688380679263,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>No. of Dengue Cases : 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Polygon</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Cases</td>
+<td>1</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>INC_CRC</td>
+<td>3D87E2AC821A0C64</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FMEL_UPD_D</td>
+<td>9/27/2016 3:45:22 PM</td>
+</tr>
+<tr>
+<td>X_ADDR</td>
+<td>23389.5237</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y_ADDR</td>
+<td>46766.0699</td>
+</tr>
+<tr>
+<td>SHAPE_Length</td>
+<td>800</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Area</td>
+<td>40000</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 103.7909904075807,1.43830544951432,0 103.7927876001246,1.438305482353967,0 103.7927875681818,1.440114209394663,0 103.790990374222,1.440114176513702,0 103.7909904075807,1.43830544951432,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>No. of Dengue Cases : 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Polygon</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Cases</td>
+<td>1</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>INC_CRC</td>
+<td>C44F737E18519F2D</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FMEL_UPD_D</td>
+<td>9/27/2016 3:45:22 PM</td>
+</tr>
+<tr>
+<td>X_ADDR</td>
+<td>26589.5237</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y_ADDR</td>
+<td>47966.0699</td>
+</tr>
+<tr>
+<td>SHAPE_Length</td>
+<td>800</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Area</td>
+<td>40000</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 103.8197454276768,1.449158168301271,0 103.8215426291718,1.449158178431871,0 103.8215426198128,1.450966905716536,0 103.8197454168912,1.450966895573287,0 103.8197454276768,1.449158168301271,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>No. of Dengue Cases : 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Polygon</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Cases</td>
+<td>1</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>INC_CRC</td>
+<td>C49C755E75FFDEFE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FMEL_UPD_D</td>
+<td>9/27/2016 3:45:22 PM</td>
+</tr>
+<tr>
+<td>X_ADDR</td>
+<td>20189.5237</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y_ADDR</td>
+<td>39966.0699</td>
+</tr>
+<tr>
+<td>SHAPE_Length</td>
+<td>800</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Area</td>
+<td>40000</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 103.7622371962978,1.376808026302764,0 103.7640343408769,1.376808079548109,0 103.7640342886153,1.378616806670906,0 103.762237142681,1.378616753355586,0 103.7622371962978,1.376808026302764,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>No. of Dengue Cases : 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Polygon</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Cases</td>
+<td>1</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>INC_CRC</td>
+<td>62CE7FA241EBDA06</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FMEL_UPD_D</td>
+<td>9/28/2016 6:32:19 PM</td>
+</tr>
+<tr>
+<td>X_ADDR</td>
+<td>18389.5237</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y_ADDR</td>
+<td>42566.0699</td>
+</tr>
+<tr>
+<td>SHAPE_Length</td>
+<td>800</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Area</td>
+<td>40000</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 103.7460620361351,1.400320926042947,0 103.7478591977738,1.400320992675859,0 103.7478591322133,1.402129718742978,0 103.7460619691962,1.402129652023967,0 103.7460620361351,1.400320926042947,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>No. of Dengue Cases : 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Polygon</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Cases</td>
+<td>1</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>INC_CRC</td>
+<td>7FF6605CC9E7318A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FMEL_UPD_D</td>
+<td>9/28/2016 6:32:19 PM</td>
+</tr>
+<tr>
+<td>X_ADDR</td>
+<td>23589.5237</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y_ADDR</td>
+<td>46566.0699</td>
+</tr>
+<tr>
+<td>SHAPE_Length</td>
+<td>800</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Area</td>
+<td>40000</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 103.7927876320272,1.436496755284495,0 103.7945848231972,1.436496786660562,0 103.7945847927087,1.438305513769556,0 103.7927876001246,1.438305482353967,0 103.7927876320272,1.436496755284495,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>No. of Dengue Cases : 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Polygon</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Cases</td>
+<td>1</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>INC_CRC</td>
+<td>02426805047B52DF</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FMEL_UPD_D</td>
+<td>9/28/2016 6:32:19 PM</td>
+</tr>
+<tr>
+<td>X_ADDR</td>
+<td>26189.5237</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y_ADDR</td>
+<td>48566.0699</td>
+</tr>
+<tr>
+<td>SHAPE_Length</td>
+<td>800</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Area</td>
+<td>40000</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 103.8161509837616,1.454584325372553,0 103.817948189513,1.454584338421468,0 103.8179481772551,1.456393065591852,0 103.8161509700718,1.456393052526704,0 103.8161509837616,1.454584325372553,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>No. of Dengue Cases : 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Polygon</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Cases</td>
+<td>1</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>INC_CRC</td>
+<td>1B2F7B31AF9FE6D8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FMEL_UPD_D</td>
+<td>9/28/2016 6:32:19 PM</td>
+</tr>
+<tr>
+<td>X_ADDR</td>
+<td>27789.5237</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y_ADDR</td>
+<td>39366.0699</td>
+</tr>
+<tr>
+<td>SHAPE_Length</td>
+<td>800</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Area</td>
+<td>40000</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 103.8305287298868,1.371382905811303,0 103.8323258717683,1.371382907251347,0 103.8323258710115,1.373191635788256,0 103.83052872778,1.373191634346312,0 103.8305287298868,1.371382905811303,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>No. of Dengue Cases : 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Polygon</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Cases</td>
+<td>1</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>INC_CRC</td>
+<td>9E202FFC02231C23</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FMEL_UPD_D</td>
+<td>9/27/2016 3:45:22 PM</td>
+</tr>
+<tr>
+<td>X_ADDR</td>
+<td>23189.5237</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y_ADDR</td>
+<td>47166.0699</td>
+</tr>
+<tr>
+<td>SHAPE_Length</td>
+<td>800</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Area</td>
+<td>40000</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 103.7891931454859,1.441922869134358,0 103.7909903408214,1.441922903484274,0 103.7909903073787,1.443731630425998,0 103.7891931106239,1.443731596032977,0 103.7891931454859,1.441922869134358,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>No. of Dengue Cases : 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Polygon</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Cases</td>
+<td>1</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>INC_CRC</td>
+<td>029AAA16CF642C96</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FMEL_UPD_D</td>
+<td>9/27/2016 3:45:22 PM</td>
+</tr>
+<tr>
+<td>X_ADDR</td>
+<td>20589.5237</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y_ADDR</td>
+<td>39766.0699</td>
+</tr>
+<tr>
+<td>SHAPE_Length</td>
+<td>800</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Area</td>
+<td>40000</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 103.7658315363639,1.374999404211783,0 103.767628679725,1.374999454664448,0 103.7676286302393,1.376808181949368,0 103.7658314855246,1.376808131430311,0 103.7658315363639,1.374999404211783,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name>No. of Dengue Cases : 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Polygon</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Cases</td>
+<td>1</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>INC_CRC</td>
+<td>52CFDC41EF6C3AAC</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FMEL_UPD_D</td>
+<td>9/27/2016 3:45:22 PM</td>
+</tr>
+<tr>
+<td>X_ADDR</td>
+<td>28389.5237</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y_ADDR</td>
+<td>43966.0699</td>
+</tr>
+<tr>
+<td>SHAPE_Length</td>
+<td>800</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Area</td>
+<td>40000</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 103.8359202008737,1.412983655356209,0 103.8377173742527,1.412983652643018,0 103.8377173776457,1.414792380533861,0 103.8359202028758,1.414792383250527,0 103.8359202008737,1.412983655356209,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name>No. of Dengue Cases : 1</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Polygon</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Cases</td>
+<td>1</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>DESCRIPTION</td>
+<td>No. of Dengue Cases : 1</td>
+</tr>
+<tr>
+<td>INC_CRC</td>
+<td>D324E2F4F4C47E7E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>FMEL_UPD_D</td>
+<td>9/27/2016 3:45:22 PM</td>
+</tr>
+<tr>
+<td>X_ADDR</td>
+<td>22589.5237</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y_ADDR</td>
+<td>45966.0699</td>
+</tr>
+<tr>
+<td>SHAPE_Length</td>
+<td>800</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SHAPE_Area</td>
+<td>40000</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampedToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 103.7838017934404,1.431070396362919,0 103.7855989801601,1.431070434704877,0 103.785598942743,1.432879161684452,0 103.7838017546146,1.432879123294014,0 103.7838017934404,1.431070396362919,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff6e6e6e</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>fff7cdc6</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>
