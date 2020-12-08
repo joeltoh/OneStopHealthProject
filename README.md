@@ -42,7 +42,7 @@ The target users of the application would be:
 
 ## Architectural Diagram
 
-![Architectural Diagram](img\ArchitecturalDiagram.png)
+![Architectural Diagram](img/ArchitecturalDiagram.png)
 
 
 
@@ -68,12 +68,9 @@ The target users of the application would be:
 
 ![Past Booking](img/Past%20Booking.png)
 
-
+# Disclaimer
+This project was done for a school project and for education purposes only and is no longer being maintained. This repository is just used to archive the projects done for school. 
 
 # Project Team Members
 
-* Adam Tan Teng Guan
-* Chua Chin Aik
-* Leung Kai Yiu
-* Toh Zhu Er Joel
-* Woon Tian Loong Jefferson
+* Joel, Adam, Chin Aik, Kai Yiu, Jefferson
